@@ -1,0 +1,40 @@
+[
+	{
+		"id": "it",
+		"workplace": "Menedżer kierunku Informatyka",
+		"name": "mgr Sebastian Agata",
+		"icon": true,
+		"email": "sagata@wsb.gda.pl",
+		"inner": [
+			{
+				"bold": "dydaktyka@wsb.gda.pl",
+				"description": "poważniejsze sprawy do załatwienia"
+			},
+			{
+				"bold": "607 320 280",
+				"description": "dzwonimy w ostateczności!"
+			}
+		]
+	},
+	{
+		"id": "physics",
+		"workplace": "Podstawy fizyki",
+		"name": "dr Barbara Synak-Radtke",
+		"icon": true,
+		"email": "bsynak@wsb.gda.pl"
+	},
+	{
+		"id": "math",
+		"workplace": "Analiza matematyczna",
+		"name": "dr Piotr Dudziński",
+		"icon": true,
+		"email": "pdudzinski@wsb.gda.pl"
+	},
+	{
+		"id": "law",
+		"workplace": "Podstawy prawa w informatyce",
+		"name": "dr Jacek Markowski",
+		"icon": true,
+		"email": "jmarkowski@wsb.gda.pl"
+	}
+]
